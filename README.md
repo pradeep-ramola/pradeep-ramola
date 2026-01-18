@@ -22,8 +22,11 @@
 ## 🛠️ Tech Stack
 
 **Languages**: Python, Java, C#, JavaScript
+
 **ML / Data**: scikit-learn, PyTorch, OpenCV, Pandas, Jupyter
+
 **Frameworks**: .NET Core, Spring Boot, Angular, React
+
 **Tools**: Git, Docker, Azure, AWS
 
 ---
